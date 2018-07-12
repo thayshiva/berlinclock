@@ -4,7 +4,7 @@ Clone repo
 change directory
 
 
-Run 
+Run below maven command
 
 mvn springboot:run
 
